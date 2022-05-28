@@ -1,0 +1,17 @@
+// Layouts, grid systems, containers
+
+
+body {
+    background-color: $white;
+    font-size: 16px;
+}
+
+.main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    background: linear-gradient(90deg, $grad-v-light-red, $grad-light-red);
+    color: $white;
+}
